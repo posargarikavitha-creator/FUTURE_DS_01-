@@ -14,7 +14,7 @@ Columns: Order ID, Order Date, Customer Name, Segment, Region, Category,
 Sub-Category, Product Name, Sales, Quantity, Discount, Profit, etc.
 
 ## 📈 Dashboard Preview
-Screenshot 2026-07-12 224628.png
+![DASHBOARD](Screenshot 2026-07-12 224628.png)
 
 ## 🔑 Key Insights
 1. Sales remained stable with a slight dip toward year-end — a renewed marketing
